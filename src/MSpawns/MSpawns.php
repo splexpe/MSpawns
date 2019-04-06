@@ -20,7 +20,7 @@ use pocketmine\utils\Config;
 class MSpawns extends PluginBase {
 
     /** @var string */
-	const PREFIX = "&7[&cMSpawns&7]";
+	const PREFIX = "&7< &3Metro&7PvP &7>";
 	
 	/** @var string */
 	const API_VERSION = "2.0";
